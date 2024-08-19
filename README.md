@@ -25,11 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop](https://github.com/G-Gakii/news-home-page/blob/main/assets/images/solution/Screenshot%202024-08-19%20at%2014.20.41.png)
+
+![mobile](https://github.com/G-Gakii/news-home-page/blob/main/assets/images/solution/Screenshot%202024-08-19%20at%2014.21.11.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://news-home-page-steel.vercel.app)
 - Live Site URL: (http://127.0.0.1:5500/index.html#home)
 
 ## My process
